@@ -1,0 +1,2 @@
+a = "Vedant"
+print(a);
