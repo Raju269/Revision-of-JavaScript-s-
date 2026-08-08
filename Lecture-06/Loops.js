@@ -35,5 +35,5 @@ do {
   // The prompt() function shows a popup in the browser
 
 } while (userResponse !== "yes");
-
+9
 console.log("You typed 'yes'. Thank you!");
