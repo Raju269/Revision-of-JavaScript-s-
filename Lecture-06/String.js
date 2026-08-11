@@ -11,7 +11,7 @@
     
     
     let singleQuoted = 'Hello, world!';
-    
+    console.log(singleQuoted);
     
     
 // 2. **Double Quotes (`"..."`):** Functionally identical to single quotes. The main reason to choose one over the other is for convenience when a string itself contains quotes.
@@ -19,7 +19,7 @@
     
     let doubleQuoted = "He said, 'Hello!'"; // Easy to include single quotes
     let singleQuotedWithDouble = 'She replied, "Hi!"'; // Easy to include double quotes
-    
+    console.log(doubleQuoted);
     
     
 // 3. **Template Literals (``...`` - ES6):** The most powerful and modern way. They use backticks.
@@ -27,6 +27,7 @@
     
 
     let templateLiteral = `This is a template literal.`;
+    console.log(templateLiteral);
     
 // 3. Core Properties and Concepts
 // A. The .length Property

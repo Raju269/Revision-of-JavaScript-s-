@@ -1,6 +1,6 @@
-Math.random() * 10;
-Math.floor(Math.random() * 10);
-Math.floor(Math.random() * 10) + 1;
+console.log(Math.random() * 10);
+console.log(Math.floor(Math.random() * 10));
+console.log(Math.floor(Math.random() * 10) + 1);
 /**
  * Generates a random integer between a minimum and maximum value (inclusive).
  * @param {number} min The minimum possible value.
